@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.G1,.G2{
+    font-size: 28px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.G1{
+    color: white;
+    background-color: black;
+    /* font-weight: bold; */
+}
+.G2{
+    color: black;
+    background-color: yellow;
+    /* font-weight: bold; */
+}

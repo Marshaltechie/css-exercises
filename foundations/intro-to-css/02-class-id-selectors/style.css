@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.same {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans, sans-serif;
+    font-size: 20px;
+    background-color: rgb(223, 137, 137);
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+.others {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans, sans-serif;
+     background-color: rgb(223, 137, 137);
+}
+
+#secn {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(91, 196, 91);
+}
